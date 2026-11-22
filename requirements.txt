@@ -3,6 +3,7 @@ uvicorn[standard]
 sqlalchemy
 PyJWT
 pydantic
+pydantic-settings
+python-dotenv
 alembic
 pwdlib
-python-dotenv

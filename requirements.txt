@@ -1,2 +1,8 @@
-fastapi>=0.115,<1.0
-uvicorn[standard]>=0.30,<1.0
+fastapi
+uvicorn[standard]
+sqlalchemy
+PyJWT
+pydantic
+alembic
+pwdlib
+python-dotenv
